@@ -1,5 +1,7 @@
 # kubernetes-event-exporter
 
+This is a fork of the resmoio repo with version bumps for security fixes.
+
 > **Note**: This is an active fork of [Opsgenie Kubernetes Event Exporter](https://github.com/opsgenie/kubernetes-event-exporter)
 since that is not maintained since November 2021. Development is sponsored by [Resmo](https://www.resmo.com).
 
